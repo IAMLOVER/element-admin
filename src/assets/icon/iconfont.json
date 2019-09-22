@@ -1,0 +1,23 @@
+{
+  "id": "1428027",
+  "name": "element-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-ump",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1002516",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "10928231",
+      "name": "personal center",
+      "font_class": "personalcenter",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

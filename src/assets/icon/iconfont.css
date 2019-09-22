@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1569033065285'); /* IE9 */
+  src: url('iconfont.eot?t=1569033065285#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQAAAsAAAAACAQAAAO0AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDZIM3ATYCJAMMCwgABCAFhG0HPxsGB1GUzc0A2c8Cu5n6UDg0KEbH10gsPM1wCDsssO8lgq+x3767+2KINbVIF48k0UjyEkmQaYUSbbqX8K906Z6B8ExMMuDD6S0/CAOAIKsKcJVJhZWrkr+U+//ncnot8fmBcplj8lEvwDigQMecIBukQBL0hrGrluKgZhNoGhMPbVfWt4ONAjcKxDWjU4FNRqU0ZIe6UK3oWcQzWKqnR7OnAJ6C78c/pIYNSSXDLQ+uKrRQ/GX3Pcx85thMfQIB9nQGqP3IWAEKcVlpOmYehVaYa9oii+bkqiKkqbxjXQKWI6iSPzySIKpwZhssoHDiy46xEnEY5Fw1++HqV1HHC4A3Qz0Ev1NRFly87R3aw+4THCpIUTpluQNmrluyAaHRUcru7dt2OPs2AHbJFY4PlDC0e7QSdW99me5w/nUQ2vEmy/Hcq0D12ZcBM19lQJ+x0IU3wdtfZyJYfH3WjSXXZl61Q7opGRMxZIMs947OCBlpv6JMonb7N5r5eSj97lvcvvVVhuuSC95H2vsWH/bv3KNkZSkdGffkwI51Bx/YTq9EZarOOlSD+ilUHmazyWWTTVi0GYZjus3MTs3G61FL9Y/8Eqdv7pXlQyubq8rdIzqv3gI9l5Z4aOUQtvxqEZzWItTlo3Z09HiUYbPRZaNNBqKjrR0+XzoRvCB/fuH8/AXBAN06o9mqtWYcoQuF0SzRrzNjER3lGeU+MD5AH1zl1tgLvcGKqAOo+/HhewJcqV89fcW266zCwWnW/e/t++BG0QFDOe7B16cPWMW7dmO3pp1FxX8NG8a6smRHNtzUA0Nwrbxv7grQ3Z3/5F/yq2D6JTZw0Dn/t419AR9HjjKBo7u7QLd0UJfozP6F7I4FxeFidS4Wi7E8c3aackhAhib243JhwPvhlmGQGEJdY0NIakYhq5vBFMIKVLSsQlXdGjQtq+rfMkhgLkoDS+YBCH1OQNLjFbI+zzCF8A4qRvyEqr4wh6bDcB+xZS4YuzKBqCSixepJmNGwJppqJbswu5XoxhlUQpobECkiiIwXpyQm56NVxESEKdqI43WpkkRjWmCNuBLMRwwGFnMCO0I0UuKwJHG5SUl01ZUSNawR7GwRECoSQgtTmwRjaLBMaFFaYlf4fCtCZxwDFaEB1aalEAIRUzmWIlFyB0yVyNQJdSv7iMbTSSWR0DCagGWEVQIDYSAhFsZVVxtBaEgSDQ8IcHIloWJ0V1Hi8hLj+y2DJtwuR4ocRblhjCon7hESWJPKoCEnaRQAAA==') format('woff2'),
+  url('iconfont.woff?t=1569033065285') format('woff'),
+  url('iconfont.ttf?t=1569033065285') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1569033065285#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-umpmima:before {
+  content: "\e623";
+}
+
+.el-icon-umppersonalcenter:before {
+  content: "\e60a";
+}
+
