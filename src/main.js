@@ -2,18 +2,20 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
-
+import axios from "./require";
 import ElementUI from "element-ui";
 
 import "@/assets/icon/iconfont.css";
 
 Vue.use(ElementUI);
 
+Vue.prototype.$http = axios;
+
 Vue.config.productionTip = false;
 
 //使用钩子函数对路由进行权限跳转
 router.beforeEach((to, from, next) => {
-  document.title = `${to.meta.title} | vue-manage-system`;
+  document.title = `${to.meta.title}`;
   const role = localStorage.getItem("ms_username");
   if (!role && to.path !== "/login") {
     next("/login");
